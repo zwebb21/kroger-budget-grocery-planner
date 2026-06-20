@@ -4,7 +4,7 @@ A full-stack JavaScript app that uses the Kroger Public API to search nearby Kro
 
 ## Live Demo
 
-[View Live App](PASTE_YOUR_RENDER_LINK_HERE)
+[View Live App](https://kroger-budget-grocery-planner.onrender.com
 
 ## Features
 
